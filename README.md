@@ -13,8 +13,8 @@ A python bot that provides live Coronavirus to your Discord server.
 
 
 # Optional 
-You can put the following code underneath  ```client = discord.Client()``` (line 8) to have the groundwork for an embed.
+You can edit line 9-11 for an embed.
 
-Simply edit the fields to contain your data, then on line 52 put your embed title in ```content=""```
+Simply edit the fields to contain your data, then on line 51 put your embed title in ```content=""```
 
-If you don't want an embed then simply delete line 10-12 and remove line 52.
+If you don't want an embed then simply delete line 9-11 and remove line 51.
