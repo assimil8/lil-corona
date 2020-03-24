@@ -1,4 +1,5 @@
-## lil-corona
+## lil-corona 
+Prerequisites discord.py, BeautifulSoup and requests.
 A python bot that provides live Coronavirus to your Discord server.
 1.) Download the .py file in the desired directory. 
 2.) Edit the TOKEN in parameter ```client.run('')``` to match your bots, specifically.
